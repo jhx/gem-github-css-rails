@@ -30,8 +30,10 @@ $ gem install github-css-rails
 Add these lines to `app/assets/stylesheets/application.css`
 
 ```css
+/*
 provides GitHub Flavored Markdown CSS from gem 'github-css-rails':
 = require github-css-rails
+*/
 ```
 
 ## Contributing
