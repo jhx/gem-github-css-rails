@@ -10,7 +10,7 @@ Add these lines to your application's Gemfile:
 
 ```rb
 # github flavored markdown css packaged for the rails asset pipeline
-gem 'github-css-rails', '~> 1.0'
+gem 'github-css-rails', '~> 1.1'
 ```
 
 And then execute:
@@ -31,7 +31,7 @@ Add these lines to `app/assets/stylesheets/application.css`
 
 ```css
 provides GitHub Flavored Markdown CSS from gem 'github-css-rails':
-= require github
+= require github-css-rails
 ```
 
 ## Contributing
