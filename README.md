@@ -8,23 +8,31 @@ Provides GitHub Flavored Markdown CSS for the Rails 3.1+ asset pipeline.
 
 Add these lines to your application's Gemfile:
 
-    # github flavored markdown css packaged for the rails asset pipeline
-    gem 'github-css-rails', '~> 1.0'
+```rb
+# github flavored markdown css packaged for the rails asset pipeline
+gem 'github-css-rails', '~> 1.0'
+```
 
 And then execute:
 
-    $ bundle
+```sh
+$ bundle
+```
 
 Or install it yourself as:
 
-    $ gem install github-css-rails
+```sh
+$ gem install github-css-rails
+```
 
 ## Usage
 
 Add these lines to `app/assets/stylesheets/application.css`
 
-    provides GitHub Flavored Markdown CSS from gem 'github-css-rails':
-    = require github
+```css
+provides GitHub Flavored Markdown CSS from gem 'github-css-rails':
+= require github
+```
 
 ## Contributing
 
