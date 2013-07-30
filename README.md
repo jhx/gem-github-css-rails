@@ -1,6 +1,6 @@
 # github-css-rails [![Gem Version](https://badge.fury.io/rb/github-css-rails.png)](http://badge.fury.io/rb/github-css-rails)
 
-> Created by Doc Walker
+> Gemified by Doc Walker
 
 Provides GitHub Flavored Markdown CSS for the Rails 3.1+ asset pipeline.
 
