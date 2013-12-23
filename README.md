@@ -1,4 +1,6 @@
-# github-css-rails [![Gem Version](https://badge.fury.io/rb/github-css-rails.png)](http://badge.fury.io/rb/github-css-rails)
+# github-css-rails
+[![Gem Version](https://badge.fury.io/rb/github-css-rails.png)](http://badge.fury.io/rb/github-css-rails)
+[![Build Status](https://travis-ci.org/jhx/gem-github-css-rails.png?branch=master)](https://travis-ci.org/jhx/gem-github-css-rails)
 
 > Gemified by Doc Walker
 
