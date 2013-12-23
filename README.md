@@ -1,6 +1,9 @@
 # github-css-rails
 [![Gem Version](https://badge.fury.io/rb/github-css-rails.png)](http://badge.fury.io/rb/github-css-rails)
 [![Build Status](https://travis-ci.org/jhx/gem-github-css-rails.png?branch=master)](https://travis-ci.org/jhx/gem-github-css-rails)
+[![Dependency Status](https://gemnasium.com/jhx/gem-github-css-rails.png)](https://gemnasium.com/jhx/gem-github-css-rails)
+[![Code Climate](https://codeclimate.com/github/jhx/gem-github-css-rails.png)](https://codeclimate.com/github/jhx/gem-github-css-rails)
+[![Coverage Status](https://coveralls.io/repos/jhx/gem-github-css-rails/badge.png)](https://coveralls.io/r/jhx/gem-github-css-rails)
 
 > Gemified by Doc Walker
 
