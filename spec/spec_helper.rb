@@ -15,6 +15,9 @@ require 'capybara/rspec'
 require 'rspec/rails'
 require 'rspec/autorun'
 
+include Sprockets::Helpers::RailsHelper
+include Sprockets::Helpers::IsolatedHelper
+
 # Requires supporting ruby files with custom matchers and macros, etc,
 # in spec/support/ and its subdirectories.
 Dir[Rails.root.join("spec/support/**/*.rb")].each { |f| require f }
