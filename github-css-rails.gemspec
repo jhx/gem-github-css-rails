@@ -8,8 +8,10 @@ Gem::Specification.new do |spec|
   spec.version       = GithubCss::Rails::VERSION
   spec.authors       = ['Doc Walker']
   spec.email         = ['doc.walker@jameshardie.com']
-  spec.description   = %q{Provides GitHub Flavored Markdown CSS for the Rails 3.1+ asset pipeline.}
-  spec.summary       = %q{Provides GitHub Flavored Markdown CSS for the Rails 3.1+ asset pipeline.}
+  spec.description   = 'Provides GitHub Flavored Markdown CSS for the ' \
+                       'Rails 3.1+ asset pipeline.'
+  spec.summary       = 'Provides GitHub Flavored Markdown CSS for the ' \
+                       'Rails 3.1+ asset pipeline.'
   spec.homepage      = 'https://github.com/jhx/gem-github-css-rails'
   spec.license       = 'MIT'
 
