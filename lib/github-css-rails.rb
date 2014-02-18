@@ -1,2 +1,2 @@
-require "github-css-rails/version"
-require "github-css-rails/engine" if defined?(::Rails)
+require 'github-css-rails/version'
+require 'github-css-rails/engine' if defined?(::Rails)
