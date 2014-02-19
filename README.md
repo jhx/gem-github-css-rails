@@ -15,7 +15,7 @@ Add these lines to your application's `Gemfile`:
 
 ```rb
 # github flavored markdown css packaged for the rails asset pipeline
-gem 'github-css-rails', '~> 1.1.2'
+gem 'github-css-rails', '~> 1.1.3'
 ```
 
 And then execute:

@@ -1,7 +1,7 @@
 CHANGELOG
 =========
 
-TBD
+1.1.2 / 2014-02-18
 ------------------
 
 - `NEW` - add ruby lint checks (via rubocop), fix flagged items | [#16][]
