@@ -4,41 +4,44 @@ CHANGELOG
 TBD
 ------------------
 
-- `IMPROVE` update `railties` gem dependency | [#10][]
+- `NEW` - add ruby lint checks (via rubocop), fix flagged items | [#16][]
+- `IMPROVE` - update `semantic` gem version | [#14][]
+- `NEW` - add [CHANGELOG](CHANGELOG.md) | [#12][]
+- `IMPROVE` - update `railties` gem dependency | [#10][]
 
 
 1.1.2 / 2013-12-24
 ------------------
 
-- `IMPROVE` update coding style to match that of other jhx gems | [#8][]
+- `IMPROVE` - update coding style to match that of other jhx gems | [#8][]
 
 
 1.1.1 / 2013-12-23
 ------------------
 
-- `IMPROVE` add dependency, coverage, code climate badges to [README](README.md) | [#6][]
-- `NEW` add spec for dummy Rails app | [#5][]
-- `NEW` add support for Travis-CI | [#2][]
-- `IMPROVE` update [README](README.md) with minor changes
+- `IMPROVE` - add dependency, coverage, code climate badges to [README](README.md) | [#6][]
+- `NEW` - add spec for dummy Rails app | [#5][]
+- `NEW` - add support for Travis-CI | [#2][]
+- `IMPROVE` - update [README](README.md) with minor changes
 
 
 1.1.0 / 2013-07-29
 ------------------
 
-- `IMPROVE` move `vendor/assets` to `lib/assets`
-- `IMPROVE` update [README](README.md) with minor changes
+- `IMPROVE` - move `vendor/assets` to `lib/assets`
+- `IMPROVE` - update [README](README.md) with minor changes
 
 
 1.0.1 / 2013-07-28
 ------------------
 
-- `IMPROVE` remove jQuery as a requirement
+- `IMPROVE` - remove jQuery as a requirement
 
 
 1.0.0 / 2013-07-28
 ------------------
 
-- `NEW` initial release
+- `NEW` - initial release
 
 
 Legend
@@ -55,3 +58,6 @@ Legend
 [#6]: https://github.com/jhx/gem-github-css-rails/issues/6
 [#8]: https://github.com/jhx/gem-github-css-rails/issues/8
 [#10]: https://github.com/jhx/gem-github-css-rails/issues/10
+[#12]: https://github.com/jhx/gem-github-css-rails/issues/12
+[#14]: https://github.com/jhx/gem-github-css-rails/issues/14
+[#16]: https://github.com/jhx/gem-github-css-rails/issues/16
