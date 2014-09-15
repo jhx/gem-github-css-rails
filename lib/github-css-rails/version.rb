@@ -2,6 +2,10 @@
 module GithubCss
   module Rails
     # Refer to Semantic Versioning 2.0.0 (http://semver.org).
-    VERSION = '1.1.3'
+    MAJOR = 1
+    MINOR = 1
+    PATCH = 3
+    BUILD = nil
+    VERSION = [MAJOR, MINOR, PATCH, BUILD].compact.join('.')
   end
 end
