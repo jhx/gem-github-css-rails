@@ -1,5 +1,17 @@
-CHANGELOG
-=========
+1.1.4 / 2014-11-13
+------------------
+
+- `NEW` - Add changelog rake task | [view](https://github.com/jhx/gem-github-css-rails/commit/fab0eca)
+- `NEW` - Add CONTRIBUTING.md | [view](https://github.com/jhx/gem-github-css-rails/commit/2d4162c)
+- `IMPROVE` - Configure rspec to use expect syntax | [view](https://github.com/jhx/gem-github-css-rails/commit/50e7e13)
+- `IMPROVE` - Update development gems | [view](https://github.com/jhx/gem-github-css-rails/commit/7577a92)
+- `IMPROVE` - Update rubocop gem | [view](https://github.com/jhx/gem-github-css-rails/commit/0eb70ff)
+- `IMPROVE` - Add MAJOR, MINOR, PATCH to version.rb | [view](https://github.com/jhx/gem-github-css-rails/commit/9011bff)
+- `IMPROVE` - Update to ruby-2.1.2 | [view](https://github.com/jhx/gem-github-css-rails/commit/5ad76ee)
+- `FIX` - Disable FileName cop | [view](https://github.com/jhx/gem-github-css-rails/commit/784afa3)
+- `IMPROVE` - Update rubocop gem to v0.19.0 | [view](https://github.com/jhx/gem-github-css-rails/commit/7c01393)
+- `FIX` - Fix CHANGELOG version | [view](https://github.com/jhx/gem-github-css-rails/commit/9926e6c)
+
 
 1.1.3 / 2014-02-18
 ------------------

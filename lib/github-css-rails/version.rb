@@ -4,7 +4,7 @@ module GithubCss
     # Refer to Semantic Versioning 2.0.0 (http://semver.org).
     MAJOR = 1
     MINOR = 1
-    PATCH = 3
+    PATCH = 4
     BUILD = nil
     VERSION = [MAJOR, MINOR, PATCH, BUILD].compact.join('.')
   end
