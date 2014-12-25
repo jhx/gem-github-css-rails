@@ -1,9 +1,9 @@
 # github-css-rails
-[![Gem Version](https://badge.fury.io/rb/github-css-rails.png)](http://badge.fury.io/rb/github-css-rails)
-[![Build Status](https://travis-ci.org/jhx/gem-github-css-rails.png?branch=master)](https://travis-ci.org/jhx/gem-github-css-rails)
-[![Dependency Status](https://gemnasium.com/jhx/gem-github-css-rails.png)](https://gemnasium.com/jhx/gem-github-css-rails)
-[![Code Climate](https://codeclimate.com/github/jhx/gem-github-css-rails.png)](https://codeclimate.com/github/jhx/gem-github-css-rails)
-[![Coverage Status](https://coveralls.io/repos/jhx/gem-github-css-rails/badge.png)](https://coveralls.io/r/jhx/gem-github-css-rails)
+[![Gem](http://img.shields.io/gem/v/github-css-rails.svg?style=flat)](https://rubygems.org/gems/github-css-rails)
+[![Travis](https://img.shields.io/travis/jhx/gem-github-css-rails.svg?style=flat)](https://travis-ci.org/jhx/gem-github-css-rails)
+[![Gemnasium](http://img.shields.io/gemnasium/jhx/gem-github-css-rails.svg?style=flat)](https://gemnasium.com/jhx/gem-github-css-rails)
+[![Code Climate](http://img.shields.io/codeclimate/github/jhx/gem-github-css-rails.svg?style=flat)](https://codeclimate.com/github/jhx/gem-github-css-rails)
+[![Coveralls](http://img.shields.io/coveralls/jhx/gem-github-css-rails.svg?style=flat)](https://coveralls.io/r/jhx/gem-github-css-rails)
 
 > Gemified by Doc Walker
 
